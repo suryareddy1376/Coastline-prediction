@@ -62,7 +62,7 @@ CoastLine Project/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/coastline-prediction.git
+   git clone https://github.com/suryareddy1376/coastline-prediction.git
    ```
 
 2. Open MATLAB and navigate to the project folder:
